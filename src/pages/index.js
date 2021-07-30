@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h2>Hellow world!</h2>
+        <h2 className="text-center">OwO world!</h2>
       </main>
 
       <footer>
